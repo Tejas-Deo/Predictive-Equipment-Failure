@@ -51,3 +51,5 @@ The data that we have is collected from over 107 sensors which store 2 types of 
 * 4) Create a new corresponding dataset for the Trained Meta Classifier.
 * 5) Pass this new dataset through the Trained Meta Classifier and get the output/predicted result
 
+<h3>Access the link given below to see a demo video which describes the working of my Project.</h3>
+https://youtu.be/j6eGFZDWw3o 
